@@ -7,7 +7,8 @@ FEBRIYANI NURHIDA
 ## STEGANOGRAFI DAN WATERMARKING
 
 KODE :
-``
+
+```
 from PIL import Image
 
 def hide_text(image_path, secret_text, output_path):
